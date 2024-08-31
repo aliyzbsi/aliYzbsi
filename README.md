@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+ <div class="header-content">
+          <h1>
+            Ali YÜZBAŞI
+            <span
+              class="typewrite"
+              data-period="1000"
+              data-type='["Front-End","Back-End","Freelancer"]'
+            ></span>
+          </h1>
+        </div>
 <!--
 **aliyzbsi/aliYzbsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
