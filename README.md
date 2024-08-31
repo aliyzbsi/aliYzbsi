@@ -1,3 +1,5 @@
+
+![MasterHead](https://github.com/aliyzbsi/JS_pratik/blob/main/img/kapak1.jpeg)
 <h1 align="center">Hi 👋, I'm Ali YÜZBAŞI</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Turkey</h3>
 
