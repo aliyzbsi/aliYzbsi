@@ -20,9 +20,7 @@
 <a href="https://discord.gg/aliyuzbasi." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aliyuzbasi." height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **NodeJS, React, Java, Java Spring**
-
-- 🤝 I’m looking for help with [Başlangıç](https://github.com/aliyzbsi/FSWeb-S2G4-JavaScript-tekrar)
+- 🌱 I’m currently learning **NodeJS, JavaScript, React, Java, Java Spring**
 
 - 💬 Ask me about **React, NodeJS**
 
