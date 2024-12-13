@@ -36,7 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyzbsi&show_icons=true&locale=en&layout=compact" alt="aliyzbsi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyzbsi&show_icons=true&locale=en" alt="aliyzbsi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyzbsi&" alt="aliyzbsi" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyzbsi&label=Profile%20views&color=0e75b6&style=flat" alt="aliyzbsi" /> </p>
