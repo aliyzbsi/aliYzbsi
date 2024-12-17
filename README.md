@@ -22,13 +22,11 @@
 
 - 🌱 I’m currently learning **NodeJS, JavaScript, React, Java, Java Spring**
 
-- 💬 Ask me about **React, NodeJS**
+- 💬 Ask me about **React, NodeJS, Java, Spring**
 
 - 📫 How to reach me **aliyzbsi68@hotmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
 
